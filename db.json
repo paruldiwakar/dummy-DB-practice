@@ -1,0 +1,80 @@
+{
+  "addmentor": [
+    {
+      "id": "",
+      "course": "",
+      "email": "",
+      "fullname": "",
+      "mobile": "",
+      "age": "",
+      "sex": "",
+      "rating": "",
+      "address": "",
+      "city": "",
+      "country": "",
+      "pincode": "",
+      "designation": "",
+      "linkedin": "",
+      "facebook": "",
+      "twitter": "",
+      "mentorpicture": ""
+    }
+  ],
+  "addcourse": [
+    {
+      "id": "",
+      "name": "",
+      "mentor": "",
+      "pricing": "",
+      "duration": "",
+      "description": "",
+      "created_at": "",
+      "image_enc_data": ""
+    }
+  ],
+  "addtestimonial": [
+    {
+      "id": "",
+      "name": "",
+      "body": "",
+      "title": "",
+      "icon_link": "",
+      "is_active": true
+    }
+  ],
+  "addevent": [
+    {
+      "id": "",
+      "title": "",
+      "startdate": "",
+      "enddate": "",
+      "location": "",
+      "details": "",
+      "content": "",
+      "catagory": "",
+      "created_at": "",
+      "total_slot": "",
+      "speakername": "",
+      "eventpicture": "",
+      "speakerpicture": "",
+      "booked_slot": ""
+    }
+  ],
+  "form" : [
+    {
+      "Name": "",
+      "Guardian_name":"",
+      "presentaddress":"",
+      "permanentaddress":"",
+      "phnohome":"",
+      "phone":"",
+      "mobile":"",
+      "email":"",
+      "data":"",
+      "place":"",
+      "signature":"",
+      "checked" :"",
+      "file":""
+    }
+  ]
+}
